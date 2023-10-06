@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungzin0309&show_icons=true&theme=radical)
+
 <!--
 **hyungzin0309/hyungzin0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
