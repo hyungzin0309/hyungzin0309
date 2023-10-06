@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![hyung jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungzin0309)](https://github.com/hyungzin0309/github-readme-stats)
+[![hyung jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungzin0309&show_icons=true&theme=prussian)](https://github.com/hyungzin0309/github-readme-stats)
   <br>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyungzin0309)](https://solved.ac/hyungzin0309/)
