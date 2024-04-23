@@ -62,9 +62,9 @@
   <br>
    <h3 dir="auto"><a id="user-content-skills" class="anchor" aria-hidden="true" tabindex="-1" href="#contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🥋 Cirtificates</h3>
    <br>
-  <img width="150px" height="150px" src="https://github.com/hyungzin0309/hyungzin0309/assets/50622006/992fdd82-22da-468f-ab0c-c57e9e4580b1">
+  <img width="152px" height="146px" src="https://github.com/hyungzin0309/hyungzin0309/assets/50622006/992fdd82-22da-468f-ab0c-c57e9e4580b1">
   &nbsp;&nbsp;
-  <img width="150px" height="150px" src="https://github.com/hyungzin0309/hyungzin0309/assets/50622006/a97d529c-da74-4b9e-8069-2c5630d8facf">  
+  <img width="152px" height="146px" src="https://github.com/hyungzin0309/hyungzin0309/assets/50622006/a97d529c-da74-4b9e-8069-2c5630d8facf">  
 
 
   
