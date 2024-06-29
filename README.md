@@ -25,10 +25,11 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcdd08296807dc8488479087b5547ded0b18643a0510162cb132543f8710cd5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/fcdd08296807dc8488479087b5547ded0b18643a0510162cb132543f8710cd5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
   <!--k8s-->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcdd08296807dc8488479087b5547ded0b18643a0510162cb132543f8710cd5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
- <!--prometheus-->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcdd08296807dc8488479087b5547ded0b18643a0510162cb132543f8710cd5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
-<!--jenkins-->
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcdd08296807dc8488479087b5547ded0b18643a0510162cb132543f8710cd5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
+  <!-- aws -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <br>
+
+    
 </span></p>
 
 </div>
