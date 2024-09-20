@@ -8,7 +8,7 @@
   <br>
 <p dir="auto"><span>
 <!--java-->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2534f2994cc9befc1a7ab9878294ff6b8bd7284a8789f7e2fcce4f859906bdf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/2534f2994cc9befc1a7ab9878294ff6b8bd7284a8789f7e2fcce4f859906bdf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Java-007396?&amp;style=for-the-badge" style="max-width: 100%;"></a>
+<img src="https://img.shields.io/badge/Java-007396?&amp;style=for-the-badge" style="max-width: 100%;">
 <!--spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%;">
 </span>
