@@ -68,7 +68,7 @@
   <!--<div style="display:inline-block; margin-right:10px;">
     <img width="140px" height="135px" src="https://github.com/user-attachments/assets/c33b8028-d458-47a1-a0fb-06971afacae5">  
   </div>-->
-  <img width="140px" height="137px" src="https://github.com/user-attachments/assets/c33b8028-d458-47a1-a0fb-06971afacae5"> &nbsp;
+  <img width="140px" height="137px" src="https://github.com/user-attachments/assets/c33b8028-d458-47a1-a0fb-06971afacae5"> &nbsp;&nbsp;
   <img width="152px" height="146px" src="https://github.com/hyungzin0309/hyungzin0309/assets/50622006/992fdd82-22da-468f-ab0c-c57e9e4580b1">
   &nbsp;&nbsp;
   <img width="152px" height="146px" src="https://github.com/hyungzin0309/hyungzin0309/assets/50622006/a97d529c-da74-4b9e-8069-2c5630d8facf">  
