@@ -97,11 +97,21 @@
   <a target="_blank" href="https://www.instagram.com/jjung_nam_/"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   -->
   <a target="_blank" href="mailto:hyungzin0309@naver.com/"><img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=minutemailer&logoColor=white"></a>
-</div>
+<div align="center">
 <br>
 <br>
 
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hyungzin0309"
+    width="600"
+    height="120"
+  />
+</a>
+<div align="center">
 
+  
 <!--
 **hyungzin0309/hyungzin0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
